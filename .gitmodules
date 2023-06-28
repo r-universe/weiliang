@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clusterGeneration"]
 	path = clusterGeneration
 	url = https://github.com/cran/clusterGeneration
-	shallow = true
-	registered = true
 [submodule "GeneSelectMMD"]
 	path = GeneSelectMMD
 	url = https://git.bioconductor.org/packages/GeneSelectMMD
-	shallow = true
-	registered = true
 [submodule "MMDvariance"]
 	path = MMDvariance
 	url = https://github.com/cran/MMDvariance
-	shallow = true
-	registered = true
 [submodule "powerMediation"]
 	path = powerMediation
 	url = https://github.com/cran/powerMediation
-	shallow = true
-	registered = true
 [submodule "powerSurvEpi"]
 	path = powerSurvEpi
 	url = https://github.com/cran/powerSurvEpi
-	shallow = true
-	registered = true
 [submodule "riskPredictClustData"]
 	path = riskPredictClustData
 	url = https://github.com/cran/riskPredictClustData
-	shallow = true
-	registered = true
 [submodule "sizepower"]
 	path = sizepower
 	url = https://git.bioconductor.org/packages/sizepower
-	shallow = true
-	registered = true
