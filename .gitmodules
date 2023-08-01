@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "clusterGeneration"]
-	path = clusterGeneration
-	url = https://github.com/cran/clusterGeneration
 [submodule "GeneSelectMMD"]
 	path = GeneSelectMMD
 	url = https://git.bioconductor.org/packages/GeneSelectMMD
 [submodule "MMDvariance"]
 	path = MMDvariance
 	url = https://github.com/cran/MMDvariance
+[submodule "clusterGeneration"]
+	path = clusterGeneration
+	url = https://github.com/cran/clusterGeneration
 [submodule "powerMediation"]
 	path = powerMediation
 	url = https://github.com/cran/powerMediation
