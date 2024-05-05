@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GeneSelectMMD"]
-	path = GeneSelectMMD
-	url = https://git.bioconductor.org/packages/GeneSelectMMD
 [submodule "MMDvariance"]
 	path = MMDvariance
 	url = https://github.com/cran/MMDvariance
@@ -20,6 +17,3 @@
 [submodule "riskPredictClustData"]
 	path = riskPredictClustData
 	url = https://github.com/cran/riskPredictClustData
-[submodule "sizepower"]
-	path = sizepower
-	url = https://git.bioconductor.org/packages/sizepower
